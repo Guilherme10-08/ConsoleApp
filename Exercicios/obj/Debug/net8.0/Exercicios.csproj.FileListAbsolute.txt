@@ -1,0 +1,14 @@
+C:\Web_Apis\Exercicios\bin\Debug\net8.0\Exercicios.exe
+C:\Web_Apis\Exercicios\bin\Debug\net8.0\Exercicios.deps.json
+C:\Web_Apis\Exercicios\bin\Debug\net8.0\Exercicios.runtimeconfig.json
+C:\Web_Apis\Exercicios\bin\Debug\net8.0\Exercicios.dll
+C:\Web_Apis\Exercicios\bin\Debug\net8.0\Exercicios.pdb
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfoInputs.cache
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfo.cs
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.dll
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\refint\Exercicios.dll
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.pdb
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\Exercicios.genruntimeconfig.cache
+C:\Web_Apis\Exercicios\obj\Debug\net8.0\ref\Exercicios.dll

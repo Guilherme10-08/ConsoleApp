@@ -1,0 +1,14 @@
+C:\Web_Apis\Projeto_Caminhao\bin\Debug\net8.0\Projeto_Caminhao.exe
+C:\Web_Apis\Projeto_Caminhao\bin\Debug\net8.0\Projeto_Caminhao.deps.json
+C:\Web_Apis\Projeto_Caminhao\bin\Debug\net8.0\Projeto_Caminhao.runtimeconfig.json
+C:\Web_Apis\Projeto_Caminhao\bin\Debug\net8.0\Projeto_Caminhao.dll
+C:\Web_Apis\Projeto_Caminhao\bin\Debug\net8.0\Projeto_Caminhao.pdb
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.AssemblyInfoInputs.cache
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.AssemblyInfo.cs
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.csproj.CoreCompileInputs.cache
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.dll
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\refint\Projeto_Caminhao.dll
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.pdb
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\Projeto_Caminhao.genruntimeconfig.cache
+C:\Web_Apis\Projeto_Caminhao\obj\Debug\net8.0\ref\Projeto_Caminhao.dll

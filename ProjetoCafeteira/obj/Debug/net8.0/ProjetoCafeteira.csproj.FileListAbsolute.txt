@@ -1,0 +1,14 @@
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\bin\Debug\net8.0\ProjetoCafeteira.exe
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\bin\Debug\net8.0\ProjetoCafeteira.deps.json
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\bin\Debug\net8.0\ProjetoCafeteira.runtimeconfig.json
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\bin\Debug\net8.0\ProjetoCafeteira.dll
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\bin\Debug\net8.0\ProjetoCafeteira.pdb
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.AssemblyInfoInputs.cache
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.AssemblyInfo.cs
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.csproj.CoreCompileInputs.cache
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.dll
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\refint\ProjetoCafeteira.dll
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.pdb
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ProjetoCafeteira.genruntimeconfig.cache
+C:\Users\STALÓMETRO\Documents\ConsoleApp\ProjetoCafeteira\obj\Debug\net8.0\ref\ProjetoCafeteira.dll

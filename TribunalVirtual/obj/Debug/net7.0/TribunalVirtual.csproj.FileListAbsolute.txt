@@ -1,0 +1,14 @@
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\bin\Debug\net7.0\TribunalVirtual.exe
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\bin\Debug\net7.0\TribunalVirtual.deps.json
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\bin\Debug\net7.0\TribunalVirtual.runtimeconfig.json
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\bin\Debug\net7.0\TribunalVirtual.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\bin\Debug\net7.0\TribunalVirtual.pdb
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.AssemblyInfoInputs.cache
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.AssemblyInfo.cs
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.csproj.CoreCompileInputs.cache
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\refint\TribunalVirtual.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.pdb
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\TribunalVirtual.genruntimeconfig.cache
+C:\Users\STALÓMETRO\Documents\ProjectoCS\TribunalVirtual\obj\Debug\net7.0\ref\TribunalVirtual.dll

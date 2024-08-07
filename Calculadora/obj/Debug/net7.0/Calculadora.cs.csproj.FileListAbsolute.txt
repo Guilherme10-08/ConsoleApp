@@ -1,0 +1,17 @@
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\bin\Debug\net7.0\Calculadora.cs.exe
+c:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\bin\Debug\net7.0\Calculadora.cs.deps.json
+c:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\bin\Debug\net7.0\Calculadora.cs.runtimeconfig.json
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\bin\Debug\net7.0\Calculadora.cs.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\bin\Debug\net7.0\Calculadora.cs.pdb
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.AssemblyInfoInputs.cache
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.AssemblyInfo.cs
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.csproj.CoreCompileInputs.cache
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\refint\Calculadora.cs.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.pdb
+c:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.genruntimeconfig.cache
+c:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\ref\Calculadora.cs.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\bin\Debug\net7.0\Dapper.dll
+C:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.csproj.AssemblyReference.cache
+c:\Users\STALÓMETRO\Documents\ProjectoCS\Calculadora\obj\Debug\net7.0\Calculadora.cs.csproj.CopyComplete

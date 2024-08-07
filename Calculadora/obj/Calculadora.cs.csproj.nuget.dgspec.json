@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\STALÓMETRO\\Documents\\ProjectoCS\\Calculadora\\Calculadora.cs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\STALÓMETRO\\Documents\\ProjectoCS\\Calculadora\\Calculadora.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\STALÓMETRO\\Documents\\ProjectoCS\\Calculadora\\Calculadora.cs.csproj",
+        "projectName": "Calculadora.cs",
+        "projectPath": "C:\\Users\\STALÓMETRO\\Documents\\ProjectoCS\\Calculadora\\Calculadora.cs.csproj",
+        "packagesPath": "C:\\Users\\STALÓMETRO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STALÓMETRO\\Documents\\ProjectoCS\\Calculadora\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\STALÓMETRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
